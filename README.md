@@ -1,6 +1,9 @@
 # Challenge-Oracle-Alura
 
-link https://eliezernogueira.github.io/textdecoder/
+link do projeto: https://inpedro.github.io/Challenge-Oracle-Alura/
+
 # Desafio Oracle Next Education + Alura.
 
-decodificador de texto.
+decodificador de texto
+
+

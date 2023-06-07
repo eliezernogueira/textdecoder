@@ -38,7 +38,7 @@ function criptografar() {
             } else if (textConvert[i] == "o") {
                 textConvert[i] = "ober";
             } else if (textConvert[i] == "u") {
-                textConvert[i] = "ufat";
+                textConvert[i] = "ufat";    
             }
         }
 

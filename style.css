@@ -120,7 +120,7 @@ textarea::placeholder {
     padding: 0px;
     transition: transform 200ms linear, background 1s;
     cursor: pointer;
-    box-shadow: 5px 5px 10px 0 #b7babd;
+    box-shadow: 5px 5px 10px 0 #11c807;
 }
 
 #descriptografar {
